@@ -1,3 +1,3 @@
 # newproject
-## This is test desctiption
+## This is test description
 ### This is some text
